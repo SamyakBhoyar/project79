@@ -1,0 +1,13 @@
+{
+	"folders": [],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.live-sass"
+		]
+	},
+	"recommendations": [
+		"ritwickdey.live-sass",
+		"ritwickdey.liveserver"
+	]
+}
